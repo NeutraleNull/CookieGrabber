@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieGrabber", "CookieGrabber\CookieGrabber.csproj", "{AF1A08AD-D632-4FE4-A460-65D3B6953D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1A08AD-D632-4FE4-A460-65D3B6953D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1A08AD-D632-4FE4-A460-65D3B6953D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1A08AD-D632-4FE4-A460-65D3B6953D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1A08AD-D632-4FE4-A460-65D3B6953D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2722B81C-D3E8-423E-913E-AA9110FE6122}
+	EndGlobalSection
+EndGlobal
